@@ -1,2 +1,3 @@
 # Buy_System_Reworked
-Dedicado a um curioso
+A java-programmed system for buy/sell propouses.
+9/10 complete
